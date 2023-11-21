@@ -121,9 +121,3 @@ Replace class components by stateless components using Hooks.
 ### 19 LoginForm
 
 Add a login page using Material-UI.
-
-
-[Lemoncode](http://lemoncode.net/services/en/#en-home) provides training services.
-
-For the LATAM/Spanish audience we are running an Online Front End Master degree,
-more info: [http://lemoncode.net/master-frontend](http://lemoncode.net/master-frontend)
